@@ -12,6 +12,16 @@ void listArray(int *pntr, int size) {
 
 };
 
+
+void insertion(int *pntr, int size) {
+   int x, tmp, z;
+   for ( x = 1; x < size; x++) {
+
+   }
+
+}
+
+
 int main() {
     int arr[] = { 3, 1, 7, 4, 9, 2, 8, 5 };
 
